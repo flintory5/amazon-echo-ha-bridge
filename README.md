@@ -6,7 +6,7 @@ Also, with an easy to use POST/PUT REST API, it's never been easier before to ge
 
 ## Quick Start
 
-There are currently three different ways to run the pre-built jar file:
+There are currently three different ways to run the pre-built jar file: (I use the Java option)
 
 **Java -** ```java -jar amazon-echo-bridge-*.jar```
 
